@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangfireHost", "HangfireHost\HangfireHost.csproj", "{A1ECDD6E-9BE2-4A3F-A209-7930CC281E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{54DDD102-2BD3-467E-A401-1554D6797ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1ECDD6E-9BE2-4A3F-A209-7930CC281E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ECDD6E-9BE2-4A3F-A209-7930CC281E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ECDD6E-9BE2-4A3F-A209-7930CC281E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ECDD6E-9BE2-4A3F-A209-7930CC281E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DDD102-2BD3-467E-A401-1554D6797ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DDD102-2BD3-467E-A401-1554D6797ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DDD102-2BD3-467E-A401-1554D6797ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DDD102-2BD3-467E-A401-1554D6797ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
